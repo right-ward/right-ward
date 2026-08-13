@@ -1,7 +1,3 @@
-<div align=center>
-    <img src="./images/banner.svg" alt="A Banner with my avatar, listing my skills">
-</div>
-
 # Hi there :wave:
 I'm rightward; someone who usually works on hobby projects.
 
@@ -65,8 +61,3 @@ MjAP22tHdjs85FrEMROGax7vaD6GX4Cg4w4snfSWCQ==
 =ORjX
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-
-## Other
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=right-ward&layout=donut&theme=dracula)
-
-![rightward's GH stats](https://github-readme-stats.vercel.app/api?username=right-ward&show_icons=true&theme=dracula)
