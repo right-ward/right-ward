@@ -3,7 +3,7 @@
 </div>
 
 # Hi there :wave:
-I'm Ninja Left; someone who usually works on hobby projects.
+I'm rightward; someone who usually works on hobby projects.
 
 ## My skills:
 ![Python](https://img.shields.io/badge/-Python-FFCF46?style=flat-square&logo=Python&logoColor=3776AB)
@@ -21,7 +21,7 @@ I'm Ninja Left; someone who usually works on hobby projects.
 If you wish to get in touch with me, please feel free to reach out via 
 [![Email](https://img.shields.io/badge/Email-ninja.notleft@proton.me-black?style=flat-square&logo=Protonmail&labelColor=white)](mailto:ninja.notleft@proton.me)
 
-My PGP public key:
+My PGP public key:
 ```pgp
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -67,6 +67,6 @@ MjAP22tHdjs85FrEMROGax7vaD6GX4Cg4w4snfSWCQ==
 ```
 
 ## Other
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninja-left&layout=donut&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=right-ward&layout=donut&theme=dracula)
 
-![Ninja's GH stats](https://github-readme-stats.vercel.app/api?username=ninja-left&show_icons=true&theme=dracula)
+![rightward's GH stats](https://github-readme-stats.vercel.app/api?username=right-ward&show_icons=true&theme=dracula)
